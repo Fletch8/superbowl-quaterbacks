@@ -1,0 +1,22 @@
+{
+  "name": "superbowl-quaterbacks",
+  "version": "1.0.0",
+  "description": "This is a code along for Express Views",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fletch8/superbowl-quaterbacks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fletch8/superbowl-quaterbacks/issues"
+  },
+  "homepage": "https://github.com/Fletch8/superbowl-quaterbacks#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
